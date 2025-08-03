@@ -2,48 +2,58 @@
 
 **NiroggyanCare** is a modern, responsive healthcare appointment booking platform built with **React** and **TypeScript**. It allows users to find doctors, explore hospital services, book appointments seamlessly, and view their upcoming bookings. The project features an elegant UI, animations, persistent booking data, and a fully responsive design.
 
-🔗 **Live Demo**: 
-
-📦 **GitHub Repo**: 
-
----
-
-## ✨ Features
-
-* **Hero Section** – Engaging intro with animation and call-to-action.
-* **Book Appointment** – Full-width booking form with animated hospital visuals.
-* **Doctor Directory** – Searchable doctor list with profile pages and appointment booking.
-* **Hospital Services** – Overview of offered facilities and departments.
-* **Happy Patients** – Testimonials and patient success stories.
-* **Contact & Support** – Address, email, phone, and support links.
-* **Footer** – Quick navigation and social links.
-* **My Bookings** – Local storage-based persistence of user bookings.
+🔗 Live Demo: https://Tinku070.github.io/NirogGyan-Healthcare/
+📦 GitHub Repo: https://github.com/Tinku070/NirogGyan-Healthcare
 
 ---
 
-## 🛠 Tech Stack
+✨ Features
+🎯 Hero Section – Engaging intro with animations and quick booking CTA.
 
-* **React** + **TypeScript**
-* **Tailwind CSS**
-* **Framer Motion**
-* **Radix UI**
-* **React Icons**
+🩺 Doctor Directory – Search and browse doctors with detailed profiles.
+
+📅 Book Appointments – Interactive booking form with date & time selection.
+
+🏥 Hospital Services – Overview of departments and facilities.
+
+😀 Happy Patients – Testimonials and patient success stories.
+
+📞 Contact & Support – Easily accessible contact information.
+
+📂 My Bookings – Persistent booking history stored locally.
+
+📱 Responsive Design – Works seamlessly across devices.
+---
+
+🛠 Tech Stack
+Frontend: React, TypeScript
+
+Styling: Tailwind CSS
+
+Animations: Framer Motion
+
+UI Components: Radix UI, React Icons
+
+Routing: React Router DOM
+
+Date Picker: React Datepicker
+
+Build Tool: Vite
 
 ---
 
-## 🚀 Getting Started
-
-### 📦 Prerequisites
-
-* Node.js (v18+)
-* npm or yarn
+🚀 Getting Started
+📦 Prerequisites
+Node.js (v18 or newer)
+npm or yarn
 
 ### 📥 Installation
 
 ```bash
-git clone 
-cd healthcare-appointment-app
+git clone https://github.com/Tinku070/NirogGyan-Healthcare.git
+cd NirogGyan-Healthcare
 npm install
+
 ```
 
 ### 🧪 Run Locally
@@ -130,10 +140,14 @@ healthcare-appointment-app/
 
 ---
 
-## 🤝 Contributing
+🤝 Contributing
+Contributions are welcome!
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Fork the repository
 
+Create a feature branch
+
+Submit a Pull Request
 ---
 
 ## 📄 License
